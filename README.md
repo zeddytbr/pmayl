@@ -13,7 +13,7 @@ Take this in to account:
 
 Instructions to use:
 
-    Run "pmayl-login.py".
+    Run "start-pymayl.py".
     
     Enter your email and password.
     
