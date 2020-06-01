@@ -1,5 +1,5 @@
 # PmaYl
-This is a simple email program that I made in python. It is currently in development and does not fully work.
+This is a simple email program that I made in python. It is currently in development and does not work.
 
 Take this in to account:
 
@@ -10,6 +10,20 @@ Take this in to account:
     It can not view mail, this software can only send it.
     
     No passwords are stored. While this is a feature I would like to bring in, I need to figure out a way of doing it without using plain text.
+
+Instructions to use:
+
+    Run "pmayl-login.py".
+    
+    Enter your email and password.
+    
+    Press OK
+    
+    Fill out the recipient, subject and main body form (Attatchments are not yet supported)
+    
+    Hit send.
+    
+    (This does not currently work, please wait until release).
     
 With that out of the way, please enjoy this piece of software.
 
