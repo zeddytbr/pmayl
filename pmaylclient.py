@@ -7,13 +7,12 @@ def send():
     pass
 
 def about():
-    messagebox.showinfo("Clear Names", "Are you sure you want to clear your list of inputed names?\nThis action cannot be undone!", icon="warning")
-    pass
+    messagebox.showinfo("About PmaYL", "PmaYl is a simple email client fully coded in python.\nFor more info and help visit: https://zeddytbr.github.io/pmayl\nVersion - Unreleased 020620",)
 
 #GUI Elements
 master = Tk()
 master.title("PmaYl Composer")
-master.geometry('600x480')
+#master.geometry('600x480')
 
 #Menu Bar
 menubar = Menu(master)
@@ -33,8 +32,8 @@ Label(master, text="Subject: ",).grid(column=0, row=40, sticky=W)
 Label(master, text="Body: ",).grid(column=0, row=50, sticky=W)
 
 
-to = Entry(master, width=100)
-to.grid(row=30, column=1)
+to = Entry(master, width=100,)
+to.grid(row=30, column=1, padx=10)
 
 sub = Entry(master, width=100)
 sub.grid(row=40, column=1)
