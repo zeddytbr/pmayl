@@ -24,7 +24,15 @@ Instructions to use:
     Hit send.
     
     (This does not currently work, please wait until release).
+
+Changes I would like to make in the future:
     
+    Currently the design is unattractive, I would like to change from TKinter to another GUI library like Kivy. This will likely change after the first official release.
+    
+    I would also like to make it clearer wherether login has been successful or not.
+    
+    It would be good if I could allow people to use it in order to read and manage emails, not just send them. However, I think that is beyond my level at this point in time but could be an addition in the future.
+
 With that out of the way, please enjoy this piece of software.
 
 -zeddytbr (Tom)
