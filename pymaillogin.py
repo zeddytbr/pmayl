@@ -1,36 +1,23 @@
-import smtplib
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
 from tkinter import *
-import pymailclient
-server = smtplib.SMTP('smtp.gmail.com', 587)
-server.ehlo()
-server.starttls()
-server.ehlo()
+import pmaylclient
 
 master = Tk()
 master.title("PyMail - A Lightweight, Open-Source Python Based, GUI, Gmail Client")
-master.geometry('600x480')
+master.geometry('600x400')
 
-
-def killprogram():
-    master.destroy()
+fromaddr = 0
+passw = 0
 
 def incorrect_login():
     Label(master, text="Sorry, that login was incorrect. Please try again. Take note that PyMail only works for Gmail." , height=2).grid(row=1, sticky=W)
 
 def save_login():
-    try:
-        global fromaddr
-        global passw
-        fromaddr = e1.get()
-        passw = e2.get()
-        server.login(fromaddr, passw)
-        killprogram()
-        #exec(open('pymailclient.py').read())
-        pymailclient
-    except Exception:
-        incorrect_login()
+    global fromaddr
+    global passw
+    fromaddr = str(e1.get())
+    passw = str(e2.get())
+    print(fromaddr + passw)
+    master.destroy()
      
 Label(master, text="Gmail Address: ").grid(row=2, sticky=W, pady=4)
 Label(master, text="Password: ", height=2).grid(row=3, sticky=W)
