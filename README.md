@@ -1,7 +1,7 @@
 # PmaYl
 This is a simple email program that I made in python. It is currently in development and does not work.
 
-Take this in to account:
+#Take this in to account:
 
     This program has currently been tested with only gmail. It will likely not work with other providers. 
     
@@ -11,7 +11,7 @@ Take this in to account:
     
     No passwords are stored. While this is a feature I would like to bring in, I need to figure out a way of doing it without using plain text.
 
-Instructions to use:
+#Instructions to use:
 
     Run "start-pymayl.py".
     
@@ -25,7 +25,7 @@ Instructions to use:
     
     (This does not currently work, please wait until release).
 
-Changes I would like to make in the future:
+#Changes I would like to make in the future:
     
     Currently the design is unattractive, I would like to change from TKinter to another GUI library like Kivy. This will likely change after the first official release.
     
