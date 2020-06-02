@@ -1,6 +1,6 @@
-### [Go Back](https://zeddytbr.github.com/pmayl "Go Back")
+### [Go Back](https://zeddytbr.github.io/pmayl "Go Back")
 
-### [Home](https://zeddytbr.github.com/pmayl "Home")
+### [Home](https://zeddytbr.github.io/pmayl "Home")
 
 ### [Download Source Code for PmaYl](https://github.com/zeddytbr/pmayl "Download Source Code")
 
