@@ -33,7 +33,7 @@ This is a simple email program that I made in python. It is currently in develop
 
 # Changes I would like to make in the future:
     
-    Currently, the design is unattractive. I would like to change from TKinter to another GUI library like Kivy. This will likely change after the first official release.
+    Currently the design is unattractive, I would like to change from TKinter to another GUI option. Likely electron with a python backend. This will likely change after the first official release.
     
     I would also like to make it clearer wherether login has been successful or not.
     
