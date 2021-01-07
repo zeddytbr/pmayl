@@ -4,6 +4,8 @@
 
 ### [Download Source Code for PmaYl](https://github.com/zeddytbr/pmayl "Download Source Code")
 
+This page is still written in markdown. Please be patient while it is update to an HTML site.
+
 # PmaYl
 This is a simple email program that I made in python. It is currently in development and does not work.
 
