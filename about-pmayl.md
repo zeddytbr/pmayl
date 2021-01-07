@@ -1,4 +1,4 @@
-### [Go Back](https://zeddytbr.github.io/pmayl "Go Back")
+### [Go Back](https://zeddytbr.github.io/pmayl/#docs "Go Back")
 
 ### [Home](https://zeddytbr.github.io/pmayl "Home")
 
