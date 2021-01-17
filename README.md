@@ -1,7 +1,7 @@
 # PmaYl
 ## [This piece of software has been abandoned and is no longer being updated. It is not safe to use for personal emails and does not function. Visit the website for more info].
 
-~~ This is a simple email program that I made in python. It is currently in development and does not work.
+~~This is a simple email program that I made in python. It is currently in development and does not work.
 
 # Take this in to account:
 
