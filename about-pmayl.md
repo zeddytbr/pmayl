@@ -6,9 +6,9 @@
 
 This page is still written in markdown. Please be patient while it is update to an HTML site.
 
-# PmaYl
-This is a simple email program that I made in python. It is currently in development and does not work.
+## [This piece of software has been abandoned and is no longer being updated. It is not safe to use for personal emails and does not function. Visit the website for more info].
 
+~~This is a simple email program that I made in python. It is currently in development and does not work.~~
 # Take this in to account:
 
     This program has currently been tested with only gmail. It will likely not work with other providers. 
